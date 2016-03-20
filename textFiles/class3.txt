@@ -1,0 +1,16 @@
+		"Ohayoo gozaimasu! Kyouwa, aisatsu wo naratteimasu. Good morning! Today, we will learn greetings."
+	Professor Tokeshi writes a long list of English words along with their Japanese equivlents on the board before turning back to the students and going over each phrase.
+
+		English					Japanese
+
+		Good morning				Ohayoo
+		Good morning (polite)			Ohayoo gozaimasu
+		Good afternoon				Konnichiwa
+		Good evening				Konbanwa
+		Good-bye				Sayoonara
+		Good night				Oyasumi
+		Good night (polite)			Oyasumi nasai
+
+		"These are a few of the greetins we will be covering, there will be more in the next lesson.  Now, does anyone have any questions about today's lesson?"
+1)	Nope, got it.
+2)	Yup, I don't know what's going on...

@@ -1,0 +1,5 @@
+	The boy looks up as he hears you approach.
+		"Hi, how's it going?"
+	You greet him back:
+1)	"Hi, I'm Sam.  You're John, right?"
+2)	"Hey, I'm Sam.  What was your name?"

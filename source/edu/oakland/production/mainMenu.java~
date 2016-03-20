@@ -1,0 +1,32 @@
+package edu.oakland.production;
+
+import java.util.*;
+import edu.oakland.txt.*;
+
+public class mainMenu{
+	
+	private mainMenu main;
+	private Scanner input = new Scanner(System.in);
+	private PrintWriter print;
+	private File file;
+	
+	public static void main(String[] args){
+		main = new mainMenu();
+		main.intro();
+		//main.menu();
+	}
+	
+	private void intro(){
+		file = new File("edu\oakland\\txt\intro.txt");
+		print = new PrintWriter(file);
+		out.println(object.toString());
+		output.close();
+		System.out.println(object.toString());		
+	}
+	
+	private void menu(){
+		System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n");
+		System.out.println("\t\t\t\tMain Menu\n");
+		System.out.println();
+	}
+}

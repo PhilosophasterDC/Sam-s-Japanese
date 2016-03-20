@@ -1,0 +1,4 @@
+	Once class ends, you pack up your things and head over to John.  He greats you and waves.  When he finishes packing his things, the two of you head out, talking about the lesson today.  When you reach the exit, John asks:
+		"Hey, so I'm meeting up with some of my buddies from high school to play a little touch football. Do you wanna come?"
+1)	Yeah, that sounds fun.
+2)	Actually... I can't today. Maybe next time.

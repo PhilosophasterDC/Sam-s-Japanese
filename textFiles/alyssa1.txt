@@ -1,0 +1,6 @@
+	After class, you stand quietly by Alyssa until she's ready to leave.  The two of you walk silently out of the building and keep walking to the park down the street where you've discovered Alyssa feels much more comfortable.  You comment:
+		"Beautiful day for a walk."
+	There's a long pause before she even acknowlages your comment.
+		"Yeah..."
+1)	Allow your walk to finish in silence
+2)	Ask about her quiet nature

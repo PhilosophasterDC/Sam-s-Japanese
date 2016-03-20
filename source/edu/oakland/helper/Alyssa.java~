@@ -1,0 +1,21 @@
+package edu.oakland.helper;
+
+public class alyssa{
+	
+	private int today = 1;
+	private int relA = 0;
+	private int avg = 0;
+	private int money = 50;
+	
+	public talkToAlyssa(int day, int relationJ, int average, int cash){
+		today = day;
+		relJ = realationJ;
+		avg = average;
+		money = cash;
+		
+		return(interact());
+		
+	}
+	
+}
+

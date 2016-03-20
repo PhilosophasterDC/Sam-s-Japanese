@@ -1,0 +1,4 @@
+	Alyssa smiles at you as you approach her desk.  She keeps her head up when you two walk out of school, and you can see a faint smile decorating her face.  When you start heading towards the park, she stops:
+		"Actually, I was wondering if you wanted to come hangout at my house today?"
+1)	Yeah, that sounds nice.
+2)	Uh... I'd actually rather go to the park today.

@@ -1,0 +1,38 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a text driven game.  All actions must be typed followed by
+pressing the "enter" button or the "return" button.  The actual game has no need
+to type words, just type the corresponding number for the list of possible actions.
+
+You will be playing as Sam, a university student taking a special class to study the
+Japanese language.  Unfortunately, your class is seven days a week for one hundred days.
+Every odd day will be a lesson, and every even day will be a review.  There will be a quiz
+every ten days.  After the one hundred days, there will be a final test.
+
+In the afternoon, you will be able to get to know your classmates, and in the evening you will
+get to choose between studying or working to make money.  Learn as much as you can, and try to
+make some friends along the way.
+
+If you understand these instructions, please type "go" and enjoy the game :)
